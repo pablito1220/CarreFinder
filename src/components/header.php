@@ -29,7 +29,7 @@
               <li><a href="./gastronomia.php">Gastronomía</a></li>
             </ul>
           </li>
-          <li><a href="services.php">Universidades</a></li>
+          
           <li><a href="contact.php">Contacto</a></li>
           <li><a href="logout.php">Cerrar Sesión</a></li> <!-- Enlace para cerrar sesión -->
         </ul>
